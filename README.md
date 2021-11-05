@@ -1,8 +1,11 @@
 # DIC Video Exporter
 
 > DICexport is a GUI (PyQt5) to export digital image correlation videos.
+
 > It offers the flexibility to choose a selected range of a video to be exported. 
+
 > It uses opencv to export one frame per second.
+
 
 ## Installation
 

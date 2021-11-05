@@ -11,7 +11,6 @@
 
 - Download and install [Anaconda](https://docs.conda.io/en/latest/miniconda.html#) 
 - Use [Git](https://git-scm.com/downloads) to clone this repository to your local computer
-- Download and install [K-Lite Codec](https://codecguide.com/download_k-lite_codec_pack_basic.htm) 
 
 ```
 conda update conda
@@ -39,3 +38,9 @@ GNU GPLv3
 ## Financial Support
 
 US Office of Naval Research: No. N00014-17-1-2283
+
+## Issues
+
+> PyQt5 can't play the video in the GUI window.
+
+> > Download and install [K-Lite Codec](https://codecguide.com/download_k-lite_codec_pack_basic.htm) 

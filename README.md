@@ -27,6 +27,8 @@ Navigate to the cloned repository.
 python DICexport.py
 ```
 
+<img src="exportGUI.png" alt="drawing" width="800"/>
+
 ## License
 
 GNU GPLv3
